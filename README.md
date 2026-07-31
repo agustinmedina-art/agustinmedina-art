@@ -8,5 +8,5 @@
 
 ### Vías de contacto
 
-[![LinkedIn](www.linkedin.com/in/agustín-medina-bautista-73955135b)](https://linkedin.com)
+[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/agust%C3%ADn-medina-bautista-73955135b)
 ![GitHub commit activity](https://img.shields.io/github/commit-activity/w/agustinmedina-art/agustinmedina-art)
